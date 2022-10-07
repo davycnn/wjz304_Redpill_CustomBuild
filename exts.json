@@ -111,7 +111,7 @@
             "mpt2sas": "Adds  Support",
             "mpt3sas": "Adds LSI MPT Fusion SAS 3.0 Device Driver Support",
             "mptsas": "Adds Fusion MPT SAS Host driver Support",
-            "mptspi": "Adds Fusion MPT SPI Host driver Support",
+            "mptspi#": "Adds Fusion MPT SPI Host driver Support",
             "mvsas": "Adds Marvell 88SE6440 SAS/SATA controller driver Support",
             "nct6775": "Adds Driver for NCT6775F and compatible chips Support",
             "qla2xxx": "Adds  Support",
