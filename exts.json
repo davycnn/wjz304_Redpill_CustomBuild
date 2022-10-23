@@ -2226,7 +2226,7 @@
             "sky2": "Adds Marvell Yukon 2 Gigabit Ethernet driver Support",
             "tcrp-diag": "An extension that will assist in collecting DSM diagnostic information",
             "tn40xx": "Adds  Support",
-            "v9fs": "Adds  Support",
+            "v9fs#": "Adds  Support",
             "via-rhine": "Adds VIA Rhine PCI Fast Ethernet driver Support",
             "via-velocity#": "Adds VIA Networking Velocity Family Gigabit Ethernet Adapter Driver Support",
             "vmw_pvscsi": "Adds VMware PVSCSI driver Support",
