@@ -3626,6 +3626,11 @@
         "ds920p_42550": {
             "dtbpatch": "Update device tree binary automatically on boot"
         },
+        "ds923p_42962": {
+            "dtbpatch": "Update device tree binary automatically on boot",
+            "mptspi": "Adds Fusion MPT SPI Host driver Support",
+            "vmxnet3": "Adds VMware vmxnet3 virtual NIC driver Support"
+        },
         "ds918p_42951": {
             "forcedeth": "Adds Reverse Engineered nForce ethernet driver Support",
             "igc": "Adds Intel(R) 2.5G Ethernet Linux Driver Support",
