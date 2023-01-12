@@ -3678,7 +3678,10 @@
         },
         "sa6400_42962": {
             "dtbpatch": "Update device tree binary automatically on boot",
-            "eudev#": "Eudev binaries will assist with auto module loading"
+            "e1000": "Adds Intel(R) PRO/1000 Network Driver Support",
+            "eudev#": "Eudev binaries will assist with auto module loading",
+            "rtc-cmos": "Adds Driver for PC-style 'CMOS' RTCs Support",
+            "vmxnet3": "Adds VMware vmxnet3 virtual NIC driver Support"
         },
         "ds918p_42951": {
             "forcedeth": "Adds Reverse Engineered nForce ethernet driver Support",
