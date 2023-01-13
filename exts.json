@@ -8859,7 +8859,17 @@
         },
         "sa6400_42962": {
             "dtbpatch": "Update device tree binary automatically on boot",
-            "eudev": "Eudev binaries will assist with auto module loading"
+            "e1000": "Adds Intel(R) PRO/1000 Network Driver Support",
+            "e1000e": "Adds Intel(R) PRO/1000 Network Driver Support",
+            "eudev": "Eudev binaries will assist with auto module loading",
+            "r8101": "Adds RealTek RTL-8101 Fast Ethernet driver Support",
+            "r8125": "Adds Realtek RTL8125 2.5Gigabit Ethernet driver Support",
+            "r8152": "Adds Realtek RTL8152/RTL8153 Based USB Ethernet Adapters Support",
+            "r8169": "Adds RealTek RTL-8169 Gigabit Ethernet driver Support",
+            "rtc-cmos": "Adds Driver for PC-style 'CMOS' RTCs Support",
+            "rtl8150": "Adds rtl8150 based usb-ethernet driver Support",
+            "tg3": "Adds Broadcom Tigon3 ethernet driver Support",
+            "vmxnet3": "Adds VMware vmxnet3 virtual NIC driver Support"
         },
         "ds918p_42951": {
             "forcedeth": "Adds Reverse Engineered nForce ethernet driver Support",
