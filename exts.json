@@ -3686,6 +3686,7 @@
         },
         "ds3622xsp_64216": {
             "eudev#": "Eudev binaries will assist with auto module loading",
+            "igc*": "Adds Intel(R) 2.5G Ethernet Linux Driver Support",
             "vmxnet3": "Adds VMware vmxnet3 virtual NIC driver Support"
         },
         "ds918p_42951": {
@@ -3705,6 +3706,10 @@
             "r8125*": "Adds Realtek RTL8125 2.5Gigabit Ethernet driver Support",
             "rtc-cmos*": "Adds Driver for PC-style 'CMOS' RTCs Support",
             "tg3*": "Adds Broadcom Tigon3 ethernet driver Support"
+        },
+        "ds3622xsp_64551": {
+            "igc*": "Adds Intel(R) 2.5G Ethernet Linux Driver Support",
+            "vmxnet3": "Adds VMware vmxnet3 virtual NIC driver Support"
         },
         "fs3600_42218": {
             "igc*": "Adds Intel(R) 2.5G Ethernet Linux Driver Support"
@@ -3768,9 +3773,6 @@
         },
         "ds923p_42218": {
             "powersched": "Adds Driver for PC-style 'CMOS' RTCs Support"
-        },
-        "ds3622xsp_64551": {
-            "vmxnet3": "Adds VMware vmxnet3 virtual NIC driver Support"
         }
     },
     "wjz304": {}
